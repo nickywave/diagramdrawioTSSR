@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T08:45:27.659Z" agent="5.0 (X11)" version="21.0.10" etag="mztypdY0afnMyvt12rTT" type="github"><diagram name="Page-1" id="t0E3SMfIUcmbuwvOc-uV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-22T08:58:21.014Z" agent="5.0 (X11)" etag="DAbipTa2cc-AYPLA9yVJ" version="21.0.10" type="github">
+  <diagram name="Page-1" id="t0E3SMfIUcmbuwvOc-uV">
+    <mxGraphModel dx="1100" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jVDGhEZcpBVG4thvh4Wk-1" value="" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-1103" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="jVDGhEZcpBVG4thvh4Wk-2" value="&lt;div&gt;&lt;b&gt;Cisco 800&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-1130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jVDGhEZcpBVG4thvh4Wk-3" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BF0816;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.network_firewall_endpoints;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-1070" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="jVDGhEZcpBVG4thvh4Wk-4" value="&lt;b&gt;PF0&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="204" y="-1100" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jVDGhEZcpBVG4thvh4Wk-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="-805" as="sourcePoint" />
+            <mxPoint x="800" y="-1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jVDGhEZcpBVG4thvh4Wk-8" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Internet&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="-1110" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
